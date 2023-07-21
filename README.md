@@ -21,3 +21,6 @@ Condition monitoring of an engine’s health using sensor data can facilitate eq
 
 ### Model training:
 Through the analysis of the aircraft engine's sensor data over time, the machine learning algorithm can discern patterns and correlations between sensor values and their fluctuations in relation to historical failures. 
+* The label is set to TTF
+  
+Using a regression model, this project will attempt to anticipate equipment failure and eventually reduce down Time.
